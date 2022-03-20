@@ -13,7 +13,7 @@ public class ABC {
         for(int i=0;i<3;i++){
             list.add(sc.nextInt());
         }
-
+System.ou.print("noko");
 
     }
 }
